@@ -1,5 +1,7 @@
 # Land Acknowledgement
 
+Forked from [Political Resources](https://valeriecodes.github.io/political-resources/) by [valeriecodes](https://github.com/valeriecodes).
+
 ## What are you looking for?
 
 * [Ohlone History](history.html)
