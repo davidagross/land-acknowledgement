@@ -2,7 +2,7 @@
 
 A compilation of resources for those looking to acknowledge land and place.
 
-Forked from [Political Resources](https://valeriecodes.github.io/political-resources/) by [@valeriecodes](https://twitter.com/valeriecodes).
+Forked from [Political Resources](https://valeriecodes.github.io/political-resources/) by [valeriecodes](https://github.com/valeriecodes).
 
 [The site.](https://davidagross.github.io/land-acknowledgement/)
 
