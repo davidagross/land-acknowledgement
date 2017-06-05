@@ -4,7 +4,7 @@
 
 **Indigenous**
 
-* [Beyong territorial acknowledgement](http://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/)
+* [Beyond territorial acknowledgement](http://apihtawikosisan.com/2016/09/beyond-territorial-acknowledgments/)
 * [First Nation Protocol on Treaty Lands](https://www.ictinc.ca/first-nation-protocol-on-first-nations-treaty-lands)
 
 **Not**
