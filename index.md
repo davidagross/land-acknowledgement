@@ -6,5 +6,6 @@ Forked from [Political Resources](https://valeriecodes.github.io/political-resou
 
 * [Ohlone History](history.html)
 * [First Nations Territorial Acknowledgements](first_nations.html)
+* [Compensation & Reparations](reparations.html)
 
 [Suggest additions](https://github.com/davidagross/land-acknowledgement/issues) or [contribute](https://github.com/davidagross/land-acknowledgement/)
