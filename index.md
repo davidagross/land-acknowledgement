@@ -4,7 +4,7 @@ Forked from [Political Resources](https://valeriecodes.github.io/political-resou
 
 ## What are you looking for?
 
-* [Ohlone History](history.html)
+* [Ohlone Acknowledgements](ohlone.html)
 * [First Nations Territorial Acknowledgements](first_nations.html)
 * [Compensation & Reparations](reparations.html)
 
