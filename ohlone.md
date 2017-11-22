@@ -4,11 +4,7 @@
 
 ### Introductions
 
-#### Alameda County Property Owners
-
 We [I] want to acknowledge that the land on which we [I] claim to own property as granted to me by Alameda County is actually...
-
-#### Gatherings
 
 We [I] would like to begin by acknowledging that the land on which we gather is ...
 
