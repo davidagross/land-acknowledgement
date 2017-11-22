@@ -8,11 +8,13 @@ We [I] want to acknowledge that the land on which we [I] claim to own property a
 
 We [I] would like to begin by acknowledging that the land on which we gather is ...
 
-### Pelnen Triblet in Livermore & Pleasanton (adapted from [Bay Area Native Sites](http://bayareanativesites.com/territory/ohlone/pelnen/))
+### Pelnen Triblet in Livermore & Pleasanton 
+(adapted from [Bay Area Native Sites](http://bayareanativesites.com/territory/ohlone/pelnen/))
 
 (Introduction) ... the ancestral home and unceded territory of the Pelnen, an Ohlone tribelet, who held the large freshwater marsh that was the western Livermore valley and most of Pleasanton and Sunol Ridges. ... (Commentary)
 
-### Commentary (applicable across the [East Bay](http://www.ebparks.org/Assets/_Nav_Categories/Park_Planning/Master+Plan/Maps/native_peoples_of_the_east_bay.pdf) and throughout [California](https://en.wikipedia.org/wiki/File:California_tribes_%26_languages_at_contact.png))
+### Commentary 
+(applicable across the [East Bay](http://www.ebparks.org/Assets/_Nav_Categories/Park_Planning/Master+Plan/Maps/native_peoples_of_the_east_bay.pdf) and throughout [California](https://en.wikipedia.org/wiki/File:California_tribes_%26_languages_at_contact.png))
 
 ... This land was stolen by Spanish, Mexican, and then American profiteers through acts of forced servitude, genocide, and deceit. 
 
